@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zvdy
+- 👀 I’m interested in the latest tech trends and learning new skills
+- 🌱 I’m currently learning Back-End & Python basics
+- 👾 I love web-development
+- 🕵🏻‍♂️ I enjoy cybersecurity
