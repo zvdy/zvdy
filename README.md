@@ -1,7 +1,7 @@
 Hi 👋 My name is Zvdy
 =====================
 
-Software Developer & Security enthusiast
+Software Developer & Cybersecurity enthusiast
 ----------------------------------------
 
 I'm a tech lover and student, I like getting involved in new projects and learning new skills to be able to apply on any branch of technology
