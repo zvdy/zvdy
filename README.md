@@ -8,8 +8,8 @@ I'm a tech lover and student, I like getting involved in new projects and learni
 
 *   🌍  I'm based in Spain
 *   🧠  I'm learning Python programming and cybersecurity
-*   🤝  I'm open to collaborating on App development, Web development, OSINT/Cybersecurity software
-*   ⚡  Working on Learning WEB3 and OSCP
+*   🤝  I'm open to collaborating on Software development, Web development and Cybersecurity software
+*   ⚡  Working on Learning WEB3 and getting OSCP certification
 
 ### Skills
 <p align="left">
