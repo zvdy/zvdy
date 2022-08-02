@@ -38,14 +38,6 @@ I'm a student. i've been getting involved on tech since I have memory and that's
 </p>
 
 
-###
-
-<div align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=zvdy" height="130" alt="languages graph"  />
-</div>
-
-###
 
 ### Socials
 
