@@ -7,7 +7,7 @@ Software Developer & Cybersecurity enthusiast
 I'm a student. i've been getting involved on tech since I have memory and that's the fact that fascinated me about it, you will always improve and evolve on the industry making it a almost (if not) an infinite journey where you will allways improve and learn new things.
 
 * 🌍  I'm based in Spain
-* 🚀  I'm currently working on [IP GeoLocator](http://ip-location-zvdy.netlify.app/)
+* 🚀  I'm currently working on leetcode questions and interview prep.
 * 🧠  I'm learning Cybersecurity and Web3
 * 🤝  I'm open to collaborating on any new projects
 
