@@ -45,7 +45,7 @@ I'm a student. i've been getting involved on tech since I have memory and that's
 <p align="left">
 <a href="https://linkedin.com/in/cristian-bulzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-bulzan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zvdy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@_zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@_zvdy" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@_zvdy" height="30" width="40" /></a>
 
 ### Support Me
 
