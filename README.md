@@ -8,8 +8,8 @@ I'm a student. i've been getting involved on tech since I have memory and that's
 
 * 🌍  I'm based in Spain
 * 🚀  I'm currently working on python & leetcode questions and interview prep.
-* 🧠  I'm learning Cybersecurity and Web3
-* 🤝  I'm open to collaborating on any new projects
+* 🧠  I'm learning Cybersecurity and Back-End Development.
+* 🤝  I'm open to collaborating on any new projects
 
 ### Skills
 
