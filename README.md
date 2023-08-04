@@ -1,7 +1,7 @@
 Hi 👋 My name is zvdy
 =====================
 
-Software Developer & Technology enthusiast
+Software Developer | DevOps | Technology enthusiast
 ---------------------------------------------
 
 I've been getting involved on tech since I have memory and the fact that fascinated me about it is: _you will always improve and evolve on the industry making it a almost (if not) an infinite journey where you will allways improve and learn new things._
