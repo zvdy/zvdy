@@ -13,7 +13,7 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 <p align="left">
 <a href="https://linkedin.com/in/cristian-bulzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-bulzan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zvdy" height="30" width="40" /></a>
- <a href=https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/435170" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gend.co%2Fhs-fs%2Fhubfs%2Fgcp-logo-cloud.png%3Fwidth%3D730%26name%3Dgcp-logo-cloud.png&f=1&nofb=1&ipt=3503d3aeb22ba14b3d675b4ddea8887213bb9c0621e78d15d69ea3935f3e2362&ipo=images" alt="apigee" height="30" width="40" /></a>
+ <a href=https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/435170 target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gend.co%2Fhs-fs%2Fhubfs%2Fgcp-logo-cloud.png%3Fwidth%3D730%26name%3Dgcp-logo-cloud.png&f=1&nofb=1&ipt=3503d3aeb22ba14b3d675b4ddea8887213bb9c0621e78d15d69ea3935f3e2362&ipo=images" alt="apigee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="_zvdy" height="30" width="40" /></a>
 </p>
 
