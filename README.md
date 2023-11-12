@@ -43,7 +43,7 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 
 
 ### `👨‍💻` Technologies
-[![tech](https://skillicons.dev/icons?i=python,go,js,ts,nodejs,java,mongodb,mysql,postgres,cassandra,docker,kubernetes,linux,grafana,nginx,postman,jenkins,gcp,aws,express,flask,html,css,vscode)](https://skillicons.dev)
+[![tech](https://skillicons.dev/icons?i=python,go,rust,js,ts,nodejs,java,mongodb,mysql,postgres,cassandra,docker,kubernetes,linux,grafana,nginx,postman,jenkins,gcp,aws,express,flask,html,css,vscode)](https://skillicons.dev)
 
 
 ### `📊` Statistics
