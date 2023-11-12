@@ -38,8 +38,10 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 
 - [IBM, Introduction to DevOps](https://www.coursera.org/account/accomplishments/certificate/5LJ2F9EVDXWY)
 
-- [ IBM, Introduction to Containers w / Docker, Kubernetes
+- [IBM, Introduction to Containers w / Docker, Kubernetes
 & OpenShift](https://www.coursera.org/account/accomplishments/certificate/FCSEFTMLTEQP)
+
+- [University of California, Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/WTDHX2A3NPKB)
 
 
 ### `👨‍💻` Technologies
