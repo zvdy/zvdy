@@ -51,3 +51,4 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 ### `📊` Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=zvdy&theme=nord&hide_border=true&border_radius=20&hide_current_streak=true)](https://git.io/streak-stats)
 ****
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zvdy&days=100&theme=nord&bg_color=20232a&hide_border=true" width="90%"/>
