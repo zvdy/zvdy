@@ -1,7 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=4C566A&width=435&lines=Hey%2C+I'm+zvdy)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1500&color=4C566A&width=435&lines=Hey%2C+I'm+zvdy)
 ===
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=3B4252&random=false&width=435&lines=Apigee+Global+Subject+Matter+Expert;Software+Developer;Cloud+DevOps+Engineer;Systems+Administrator)](https://git.io/typing-svg)
+===
 ### 👤 **whoami**:
  I'm a selftaught developer and  Cloud DevOps Enginner, currently working as a DevOps _Global Subject Matter Expert_ for [Apigee](https://cloud.google.com/apigee/). I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
 
