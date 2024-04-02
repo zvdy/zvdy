@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1500&color=4C566A&width=435&lines=Hey%2C+I'm+zvdy)
-===
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=3B4252&random=false&width=435&lines=Apigee+Global+Subject+Matter+Expert;Software+Developer;Cloud+DevOps+Engineer;Systems+Administrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=3B4252&random=false&width=435&lines=Apigee+Global+Subject+Matter+Expert;Software+Developer;Cloud+DevOps+Engineer;System+Administrator)](https://git.io/typing-svg)
 ===
 ### 👤 **whoami**:
  I'm a selftaught developer and  Cloud DevOps Enginner, currently working as a DevOps _Global Subject Matter Expert_ for [Apigee](https://cloud.google.com/apigee/). I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
@@ -14,8 +13,9 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 <p align="left">
 <a href="https://linkedin.com/in/cristian-bulzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-bulzan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zvdy" height="30" width="40" /></a>
- <a href=https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/435170 target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gend.co%2Fhs-fs%2Fhubfs%2Fgcp-logo-cloud.png%3Fwidth%3D730%26name%3Dgcp-logo-cloud.png&f=1&nofb=1&ipt=3503d3aeb22ba14b3d675b4ddea8887213bb9c0621e78d15d69ea3935f3e2362&ipo=images" alt="apigee" height="30" width="40" /></a>
+<a href=https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/435170 target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gend.co%2Fhs-fs%2Fhubfs%2Fgcp-logo-cloud.png%3Fwidth%3D730%26name%3Dgcp-logo-cloud.png&f=1&nofb=1&ipt=3503d3aeb22ba14b3d675b4ddea8887213bb9c0621e78d15d69ea3935f3e2362&ipo=images" alt="apigee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_zvdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="_zvdy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zvdy" target="blank"><img align="center" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" alt="_zvdy" height="30" width="40" /></a
 </p>
 
 
