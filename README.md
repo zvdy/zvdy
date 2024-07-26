@@ -1,11 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1500&color=4C566A&width=435&lines=Hey%2C+I'm+zvdy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=3B4252&random=false&width=435&lines=Apigee+Global+Subject+Matter+Expert;Software+Developer;Cloud+DevOps+Engineer;System+Administrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=1000&color=3B4252&width=435&lines=Software+Devleoper;Site+Reliability+Engineer;System+Administrator;Ex-Apigee+Global+Subject+Matter+Expert;DevOps+Engineer;Cloud+Engineer)](https://git.io/typing-svg)
 ===
-### 👤 **whoami**:
-I'm a selftaught developer and  Cloud DevOps Enginner, currently working as a DevOps _Global Subject Matter Expert_ for [Apigee](https://cloud.google.com/apigee/). I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
 
-I enjoy building things and solving problems on an efficient way. I'm always looking for new challenges and opportunities.
+### 👤 **whoami**:
+I'm a selftaught Software Engineer and  Cloud Enginner, currently working as a API Platform Site Reliability Engineer. I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
+
+I enjoy building software and solving problems on an efficient way. I also enjoy cybersecurity and automation, always looking for new challenges and opportunities to improve and grow my expertise.
 
 
 ### 🌐 **Socials**:
@@ -21,20 +22,18 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 
 
 
-### 🌱 **Certificates**:
+### [🌱 **Certificates**:](https://www.linkedin.com/in/cristian-bulzan/details/certifications/)
 
+- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/programs/google-specialization/professional-certificates/meta-back-end-developer)
+  - [Meta, Programming in Python](https://www.coursera.org/account/accomplishments/certificate/YYETFKZU6JQZ)
 
-- [Hackerrank, Python (Basic)](https://www.hackerrank.com/certificates/feaeb166202c)
+  - [Meta, Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/M3YVL9H8FCKH)
 
-- [Meta, Programming in Python](https://www.coursera.org/account/accomplishments/certificate/YYETFKZU6JQZ)
+  - [Meta, Introduction to Databases for Back-End Development](https://www.coursera.org/account/accomplishments/certificate/9ZMMFSXKAE8H)
 
-- [Meta, Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/M3YVL9H8FCKH)
+  - [Meta, Version Control](https://www.coursera.org/account/accomplishments/certificate/H22H5KP9P2GT)
 
-- [Meta, Introduction to Databases for Back-End Development](https://www.coursera.org/account/accomplishments/certificate/9ZMMFSXKAE8H)
-
-- [Meta, Version Control](https://www.coursera.org/account/accomplishments/certificate/H22H5KP9P2GT)
-
-- [freeCodeCamp, Computing with Python](https://www.freecodecamp.org/certification/zvdy/scientific-computing-with-python-v7)
+- [freeCodeCamp, Scientific Computing with Python](https://www.freecodecamp.org/certification/zvdy/scientific-computing-with-python-v7)
 
 - [Google, Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/84RRBH3A4SDY)
 
@@ -43,8 +42,17 @@ I enjoy building things and solving problems on an efficient way. I'm always loo
 - [IBM, Introduction to Containers w / Docker, Kubernetes
 & OpenShift](https://www.coursera.org/account/accomplishments/certificate/FCSEFTMLTEQP)
 
-- [University of California, Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/WTDHX2A3NPKB)
+- [IBM, Introduction to Linu x Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/8PX43VJ54SVY)
 
+- [Programming with Google Go](https://www.coursera.org/account/accomplishments/specialization/BVMDZ4TS4MPN)
+  - [University of California, Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/WTDHX2A3NPKB)
+
+  - [Concurrency in Go](https://www.coursera.org/account/accomplishments/verify/HTB6MK3VB5X4)
+
+  - [Functions, Methods, and Interfaces in Go](https://www.coursera.org/account/accomplishments/verify/7E6LU56KYKFC)
+
+- [HackerRank, Python (Basic)](https://www.hackerrank.com/certificates/feaeb166202c)
+- [HackerRank, Go (Basic)](https://www.hackerrank.com/certificates/3452ab7f91a1)
 
 ### `👨‍💻` Technologies
 [![tech](https://skillicons.dev/icons?i=python,go,rust,js,ts,nodejs,java,mongodb,mysql,postgres,cassandra,docker,kubernetes,linux,grafana,nginx,postman,jenkins,gcp,aws,express,flask,html,css,vscode)](https://skillicons.dev)
