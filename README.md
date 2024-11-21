@@ -54,10 +54,10 @@ I enjoy building software and solving problems on an efficient way. I also enjoy
 - [HackerRank, Python (Basic)](https://www.hackerrank.com/certificates/feaeb166202c)
 - [HackerRank, Go (Basic)](https://www.hackerrank.com/certificates/3452ab7f91a1)
 
-### `👨‍💻` Technologies
+### `👨‍💻` Tech
 [![tech](https://skillicons.dev/icons?i=python,go,rust,js,ts,nodejs,java,mongodb,mysql,postgres,cassandra,docker,kubernetes,linux,grafana,nginx,postman,jenkins,gcp,aws,express,flask,html,css,vscode)](https://skillicons.dev)
 
 
-### `📊` Statistics
+### `📊` Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=zvdy&theme=nord&hide_border=true&border_radius=20&hide_current_streak=true)](https://git.io/streak-stats)
 ****
