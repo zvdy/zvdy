@@ -4,7 +4,7 @@
 ===
 
 ### 👤 **whoami**:
-I'm a selftaught Software Engineer and  Cloud Enginner, currently working as a API Platform Site Reliability Engineer. I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
+I'm a selftaught Software and Cloud Enginner, currently working as a API Platform Software Engineer. I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
 
 I enjoy building software and solving problems on an efficient way. I also enjoy cybersecurity and automation, always looking for new challenges and opportunities to improve and grow my expertise.
 
@@ -42,7 +42,7 @@ I enjoy building software and solving problems on an efficient way. I also enjoy
 - [IBM, Introduction to Containers w / Docker, Kubernetes
 & OpenShift](https://www.coursera.org/account/accomplishments/certificate/FCSEFTMLTEQP)
 
-- [IBM, Introduction to Linu x Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/8PX43VJ54SVY)
+- [IBM, Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/8PX43VJ54SVY)
 
 - [Programming with Google Go](https://www.coursera.org/account/accomplishments/specialization/BVMDZ4TS4MPN)
   - [University of California, Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/WTDHX2A3NPKB)
