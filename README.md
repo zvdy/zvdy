@@ -4,10 +4,9 @@
 ===
 
 ### 👤 **whoami**:
-I'm a selftaught Software and Cloud Enginner, currently working as a API Platform Software Engineer. I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
+I'm a Software and Cloud Enginner, currently working as a API Platform Software Engineer. I've been passionate about technology since I was a kid, I'm a fast learner, curious and self-driven person.
 
-I enjoy building software and solving problems on an efficient way. I also enjoy cybersecurity and automation, always looking for new challenges and opportunities to improve and grow my expertise.
-
+I enjoy building software and solving problems efficiently. I'm also a cybersecurity and low level enthusiast, always looking for new challenges and opportunities to improve and learn.
 
 ### 🌐 **Socials**:
 
