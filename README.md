@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1500&color=4C566A&width=435&lines=Hey%2C+I'm+zvdy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=1000&color=3B4252&width=435&lines=Software+Devleoper;Site+Reliability+Engineer;System+Administrator;Ex-Apigee+Global+Subject+Matter+Expert;DevOps+Engineer;Cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=1000&color=3B4252&width=435&lines=Software+Engineer;Site+Reliability+Engineer;System+Administrator;DevOps+Engineer;Cloud+Engineer)](https://git.io/typing-svg)
 ===
 
 ### 👤 **whoami**:
