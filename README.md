@@ -14,7 +14,6 @@
 I am a **Software and Cloud Engineer**, currently working as an **API Platform Software Engineer**. Passionate about technology from an early age, I am a **fast learner, highly curious, and self-driven**.  
 I enjoy **building software, solving problems efficiently, and contributing to open-source projects**.
 
----
 
 ## 😄 **Daily Programming Joke**
 <!-- JOKE-START -->
@@ -43,7 +42,6 @@ Why do programmers prefer dark mode? Because light attracts bugs!
   </a>
 </p>
 
----
 
 ## 💻 **Tech Stack**
 
