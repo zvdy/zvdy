@@ -16,6 +16,11 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 
 ---
 
+## 😄 **Daily Programming Joke**
+<!-- JOKE-START -->
+Why do programmers prefer dark mode? Because light attracts bugs!
+<!-- JOKE-END -->
+
 ## 🌐 **Connect with Me**
 <p align="left">
   <a href="https://linkedin.com/in/cristian-bulzan" target="_blank">
