@@ -17,7 +17,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 
 ## 😄 **Daily Programming Joke**
 <!-- JOKE-START -->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 <!-- JOKE-END -->
 
 ## 🌐 **Connect with Me**
