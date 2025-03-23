@@ -17,8 +17,10 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 
 ## 😄 **Daily Programming Joke**
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 <!-- JOKE-END -->
 
 ## 🌐 **Connect with Me**
