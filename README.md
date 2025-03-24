@@ -17,10 +17,11 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 
 ## 😄 **Daily Programming Joke**
 <!-- JOKE-START -->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE-END -->
 
 ## 🌐 **Connect with Me**
