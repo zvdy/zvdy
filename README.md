@@ -20,8 +20,11 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Have a great weekend!  
-I hope your code behaves the same on Monday as it did on Friday.
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 <!-- JOKE-END -->
 
 <p align="left">
