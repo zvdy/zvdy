@@ -17,11 +17,8 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 
 ## 😄 **Daily Programming Joke**
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 <!-- JOKE-END -->
 
 ## 🌐 **Connect with Me**
