@@ -20,8 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
 
 <p align="left">
