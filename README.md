@@ -20,7 +20,10 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 <!-- JOKE-END -->
 
 <p align="left">
