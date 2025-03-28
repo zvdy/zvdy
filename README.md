@@ -20,10 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE-END -->
 
 <p align="left">
