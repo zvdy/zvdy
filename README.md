@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The generation of random numbers is too important to be left to chance.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE-END -->
 
 <p align="left">
