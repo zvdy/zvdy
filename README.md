@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-ASCII silly question, get a silly ANSI.
+"We messed up the keming again guys."
 <!-- JOKE-END -->
 
 <p align="left">
