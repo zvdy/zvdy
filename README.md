@@ -20,8 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
 
 <p align="left">
