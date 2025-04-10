@@ -20,9 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE-END -->
 
 <p align="left">
