@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE-END -->
 
 <p align="left">
