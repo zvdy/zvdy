@@ -20,7 +20,8 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE-END -->
 
 <p align="left">
