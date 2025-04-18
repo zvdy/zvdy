@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Debugging: Removing the needles from the haystack.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE-END -->
 
 <p align="left">
