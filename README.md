@@ -20,7 +20,8 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE-END -->
 
 <p align="left">
