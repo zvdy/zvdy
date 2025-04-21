@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE-END -->
 
 <p align="left">
