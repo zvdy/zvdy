@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-ASCII silly question, get a silly ANSI.
+The generation of random numbers is too important to be left to chance.
 <!-- JOKE-END -->
 
 <p align="left">
