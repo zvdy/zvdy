@@ -20,7 +20,11 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The generation of random numbers is too important to be left to chance.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE-END -->
 
 <p align="left">
