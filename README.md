@@ -20,11 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Debugging: Removing the needles from the haystack.
 <!-- JOKE-END -->
 
 <p align="left">
