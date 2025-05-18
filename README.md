@@ -20,10 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
 
 <p align="left">
