@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE-END -->
 
 <p align="left">
