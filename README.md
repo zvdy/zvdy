@@ -20,12 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+ASCII silly question, get a silly ANSI.
 <!-- JOKE-END -->
 
 <p align="left">
