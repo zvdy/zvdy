@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-ASCII silly question, get a silly ANSI.
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
 
 <p align="left">
