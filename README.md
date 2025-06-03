@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
 
 <p align="left">
