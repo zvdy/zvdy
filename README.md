@@ -20,8 +20,10 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE-END -->
 
 <p align="left">
