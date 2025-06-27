@@ -20,12 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 <!-- JOKE-END -->
 
 <p align="left">
