@@ -20,8 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE-END -->
 
 <p align="left">
