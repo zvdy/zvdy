@@ -20,11 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 <!-- JOKE-END -->
 
 <p align="left">
