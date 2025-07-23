@@ -20,9 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+The generation of random numbers is too important to be left to chance.
 <!-- JOKE-END -->
 
 <p align="left">
