@@ -20,7 +20,8 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 <!-- JOKE-END -->
 
 <p align="left">
