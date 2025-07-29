@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+Debugging: Removing the needles from the haystack.
 <!-- JOKE-END -->
 
 <p align="left">
