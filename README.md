@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The generation of random numbers is too important to be left to chance.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE-END -->
 
 <p align="left">
