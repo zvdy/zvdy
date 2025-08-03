@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE-END -->
 
 <p align="left">
