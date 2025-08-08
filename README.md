@@ -20,9 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
 
 <p align="left">
