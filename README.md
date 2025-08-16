@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE-END -->
 
 <p align="left">
