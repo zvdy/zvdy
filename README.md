@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size18&repeat=false&duration=4500&pause=1000&color=5E81AC&width=600&lines=$+cat+/home/zvdy/about_me.txt&loop=false" alt="Typing SVG" />
 </p>
 
-I am a **Software and Cloud Engineer**, currently working as an **API Platform Software Engineer**.  
+I am a **Software DevOps Engineer**, currently working as an **API Platform Software Engineer**.  
 Passionate about technology from an early age, I am a **fast learner, highly curious, and self-driven**.  
 I enjoy **building software, solving problems efficiently, and contributing to open-source projects**.
 
