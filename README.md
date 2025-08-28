@@ -20,10 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE-END -->
 
 <p align="left">
