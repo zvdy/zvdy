@@ -20,9 +20,10 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE-END -->
 
 <p align="left">
