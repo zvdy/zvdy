@@ -20,7 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE-END -->
 
 <p align="left">
