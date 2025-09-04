@@ -20,11 +20,7 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE-END -->
 
 <p align="left">
