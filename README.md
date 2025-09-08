@@ -20,7 +20,11 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-I'd tell you a joke about NAT but I would have to translate.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE-END -->
 
 <p align="left">
