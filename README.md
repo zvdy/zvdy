@@ -20,11 +20,12 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE-END -->
 
 <p align="left">
