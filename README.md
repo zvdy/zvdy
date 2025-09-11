@@ -27,27 +27,3 @@ The Chemical engineer says "Impurities in the gasoline".
 The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
 <!-- JOKE-END -->
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size18&repeat=false&duration=4500&pause=1000&color=5E81AC&width=600&lines=$+cat+/usr/bin/tech_stack&loop=false" alt="Typing SVG" />
-</p>
-
-### _Programming Languages_
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,html,css" alt="Programming Languages" />
-</p>
-
-### _Databases_
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,cassandra,sqlite,redis,dynamodb,elasticsearch" alt="Databases" />
-</p>
-
-### _Cloud Platforms_
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws" alt="Cloud Platforms" />
-</p>
-
-### _Tools & Frameworks_
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,linux,grafana,nginx,flask,vscode,arch,terraform,ansible,django,fastapi,graphql,prometheus" alt="Tools & Frameworks" />
-</p>
-
