@@ -20,8 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE-END -->
 
