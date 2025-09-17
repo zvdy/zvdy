@@ -20,6 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE-END -->
 
