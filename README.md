@@ -20,10 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Four engineers get into a car. The car won't start.
-The Mechanical engineer says "It's a broken starter".
-The Electrical engineer says "Dead battery".
-The Chemical engineer says "Impurities in the gasoline".
-The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE-END -->
 
