@@ -20,6 +20,8 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE-END -->
 
