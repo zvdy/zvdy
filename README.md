@@ -20,11 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+The generation of random numbers is too important to be left to chance.
 <!-- JOKE-END -->
 
