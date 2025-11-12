@@ -20,6 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE-END -->
 
