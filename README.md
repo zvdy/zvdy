@@ -20,7 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE-END -->
 
