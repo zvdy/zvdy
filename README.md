@@ -20,6 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE-END -->
 
