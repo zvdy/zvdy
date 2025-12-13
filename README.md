@@ -20,10 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE-END -->
 
