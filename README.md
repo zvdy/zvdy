@@ -20,6 +20,6 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
 
