@@ -20,6 +20,9 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE-END -->
 
