@@ -20,6 +20,9 @@ I enjoy **building software, solving problems efficiently, and contributing to o
 </p>
 
 <!-- JOKE-START -->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE-END -->
 
