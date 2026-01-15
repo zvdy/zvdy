@@ -22,9 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 <!-- JOKE-END -->
