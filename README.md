@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+The generation of random numbers is too important to be left to chance.
 <!-- JOKE-END -->
