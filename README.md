@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE-END -->
