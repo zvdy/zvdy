@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE-END -->
