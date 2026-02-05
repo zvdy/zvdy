@@ -22,9 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 <!-- JOKE-END -->
