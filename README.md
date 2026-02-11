@@ -22,6 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE-END -->
