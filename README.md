@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
