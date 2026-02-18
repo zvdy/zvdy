@@ -22,6 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE-END -->
