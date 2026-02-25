@@ -22,11 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 <!-- JOKE-END -->
