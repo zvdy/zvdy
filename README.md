@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
