@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
