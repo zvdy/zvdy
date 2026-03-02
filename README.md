@@ -22,5 +22,7 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-I'd tell you a joke about NAT but I would have to translate.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE-END -->
