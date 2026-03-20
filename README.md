@@ -22,5 +22,8 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 <!-- JOKE-END -->
