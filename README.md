@@ -22,7 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
