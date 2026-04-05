@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-I'd tell you a joke about NAT but I would have to translate.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE-END -->
