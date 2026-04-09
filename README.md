@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-ASCII silly question, get a silly ANSI.
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
