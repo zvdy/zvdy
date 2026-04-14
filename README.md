@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Debugging: Removing the needles from the haystack.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE-END -->
