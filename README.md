@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE-END -->
