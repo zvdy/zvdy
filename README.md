@@ -22,6 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 <!-- JOKE-END -->
