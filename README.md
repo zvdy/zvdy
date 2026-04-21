@@ -22,5 +22,10 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE-END -->
