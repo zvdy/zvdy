@@ -22,10 +22,9 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 <!-- JOKE-END -->
