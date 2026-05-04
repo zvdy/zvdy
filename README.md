@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-The generation of random numbers is too important to be left to chance.
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
