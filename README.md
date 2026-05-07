@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Debugging: Removing the needles from the haystack.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE-END -->
