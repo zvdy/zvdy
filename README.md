@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 <!-- JOKE-END -->
