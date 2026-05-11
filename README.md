@@ -22,8 +22,7 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 <!-- JOKE-END -->
