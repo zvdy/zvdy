@@ -22,5 +22,6 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE-END -->
