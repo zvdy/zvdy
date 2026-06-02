@@ -22,5 +22,7 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 <!-- JOKE-END -->
