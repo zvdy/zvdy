@@ -22,5 +22,10 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"We messed up the keming again guys."
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE-END -->
