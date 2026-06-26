@@ -22,5 +22,6 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"We messed up the keming again guys."
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 <!-- JOKE-END -->
