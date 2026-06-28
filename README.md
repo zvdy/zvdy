@@ -22,9 +22,6 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 <!-- JOKE-END -->
