@@ -22,8 +22,8 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE-END -->
