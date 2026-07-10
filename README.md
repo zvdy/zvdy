@@ -22,5 +22,9 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Debugging: Removing the needles from the haystack.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE-END -->
