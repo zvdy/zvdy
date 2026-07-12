@@ -22,8 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+The generation of random numbers is too important to be left to chance.
 <!-- JOKE-END -->
