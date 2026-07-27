@@ -22,8 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 <!-- JOKE-END -->
