@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE-END -->
