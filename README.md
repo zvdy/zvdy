@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
