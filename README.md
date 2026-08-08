@@ -22,9 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE-END -->
