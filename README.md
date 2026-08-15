@@ -22,9 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 <!-- JOKE-END -->
