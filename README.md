@@ -22,5 +22,6 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 <!-- JOKE-END -->
