@@ -22,6 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE-END -->
