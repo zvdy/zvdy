@@ -22,5 +22,6 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 <!-- JOKE-END -->
