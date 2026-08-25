@@ -22,6 +22,7 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE-END -->
