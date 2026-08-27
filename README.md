@@ -22,9 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE-END -->
