@@ -22,5 +22,6 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 <!-- JOKE-END -->
