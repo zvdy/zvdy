@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE-END -->
