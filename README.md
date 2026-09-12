@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"We messed up the keming again guys."
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE-END -->
