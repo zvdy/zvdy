@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE-END -->
