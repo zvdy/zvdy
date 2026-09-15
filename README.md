@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 <!-- JOKE-END -->
