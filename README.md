@@ -22,9 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+The generation of random numbers is too important to be left to chance.
 <!-- JOKE-END -->
