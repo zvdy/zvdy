@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+// This line doesn't actually do anything, but the code stops working when I delete it.
 <!-- JOKE-END -->
