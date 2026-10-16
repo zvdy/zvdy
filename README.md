@@ -22,5 +22,10 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE-END -->
