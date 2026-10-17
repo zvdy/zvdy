@@ -22,10 +22,8 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE-END -->
