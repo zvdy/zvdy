@@ -22,5 +22,10 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE-END -->
