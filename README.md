@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE-END -->
