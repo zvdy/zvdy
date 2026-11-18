@@ -22,5 +22,5 @@ I enjoy **engineering robust systems, automating reliability, and contributing t
 </p>
 
 <!-- JOKE-START -->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE-END -->
