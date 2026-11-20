@@ -13,7 +13,7 @@ SVG = Path(__file__).with_name("tmux.svg")
 
 CW = 8.4          # monospace char width at 14px (measured)
 X0 = 4 * CW       # command starts after "~ $ "
-Y0 = 310          # prompt line inside the right pane group
+Y0 = 290          # prompt line inside the right pane group
 LH = 20           # line height
 START = 4.8       # seconds, after the intro finishes
 TYPE_MS = (0.045, 0.14)  # per-keystroke delay range

@@ -22,7 +22,6 @@ runtimes, GPU monitors, network stacks.
 | [`lsm-rust`](https://github.com/zvdy/lsm-rust) | Rust | LSM tree in Rust |
 | [`zvtop`](https://github.com/zvdy/zvtop) | Go | GPU monitor for the terminal |
 | [`stratum`](https://github.com/zvdy/stratum) | Go | Postgres ERD generator |
-| [`rairdrop`](https://github.com/zvdy/rairdrop) | Rust | AirPlay in Rust |
 | [`parsero-go`](https://github.com/zvdy/parsero-go) | Go | robots.txt scanner |
 
 ```console
