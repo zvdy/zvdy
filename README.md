@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&repeat=false&duration=4500&pause=1000&color=A89984&width=600&lines=$+cat+/home/zvdy/about_me.txt&loop=false" alt="$ cat /home/zvdy/about_me.txt" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&height=26&vCenter=true&repeat=false&duration=4500&pause=1000&color=A89984&width=600&lines=$+cat+/home/zvdy/about_me.txt&loop=false" alt="$ cat /home/zvdy/about_me.txt" />
 </p>
 
 **Software Platform Systems Engineer** based in Barcelona. I mostly write **Go**, and I spend my time on
@@ -21,7 +21,7 @@ Outside of work I like to rebuild things from scratch to see how they actually w
 runtimes, GPU monitors.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&repeat=false&duration=4500&pause=1000&color=A89984&width=600&lines=$+cat+/var/log/daily_joke.log&loop=false" alt="$ cat /var/log/daily_joke.log" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&height=26&vCenter=true&repeat=false&duration=4500&pause=1000&color=A89984&width=600&lines=$+cat+/var/log/daily_joke.log&loop=false" alt="$ cat /var/log/daily_joke.log" />
 </p>
 
 <!-- JOKE-START -->
