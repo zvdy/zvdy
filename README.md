@@ -1,25 +1,33 @@
-<!-- Terminal-Style Animated Typing -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=2000&pause=1000&color=4C566A&width=435&lines=$+whoami;Hey%2C+I'm+zvdy&loop=false" alt="Typing SVG" />
+<p align="center">
+  <img src="./assets/tmux.svg" alt="zvdy: Software Platform Systems Engineer. Go, Rust, Python, C. Availability, resiliency, scalability, security." width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=4000&pause=1000&color=3B4252&width=580&lines=$+cat+/proc/title;Software+Engineer+(Golang);Infrastructure+Engineer;Reliability+%26+Availability+Engineering;Scalability+%26+Security+Focused&loop=false" alt="Typing SVG" />
-</p>
+```console
+~ $ cat ~/about.txt
+```
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&repeat=false&duration=4500&pause=1000&color=5E81AC&width=600&lines=$+cat+/home/zvdy/about_me.txt&loop=false" alt="Typing SVG" />
-</p>
+**Software Platform Systems Engineer** based in Barcelona. I mostly write **Go**, and I spend my time on
+platforms that have to stay up: high availability, resiliency, scalability and security for production systems.
 
-I am a **Software Engineer** working primarily with **Golang**, focused on **infrastructure at scale**.  
-My work centers on **high availability, resiliency, scalability, and security** for production systems operating under real-world constraints.  
+Outside of work I like to rebuild things from scratch to see how they actually work: storage engines, inference
+runtimes, GPU monitors, network stacks.
 
-Passionate about technology from an early age, I am a **fast learner, highly curious, and self-driven**.  
-I enjoy **engineering robust systems, automating reliability, and contributing to open-source projects**.
+```console
+~ $ ls ~/src --pinned
+```
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&repeat=false&duration=4500&pause=1000&color=5E81AC&width=600&lines=$+cat+/var/log/daily_joke.log&loop=false" alt="Typing SVG" />
-</p>
+| repo | lang | what |
+|---|---|---|
+| [`kvasir`](https://github.com/zvdy/kvasir) | Rust · CUDA | LLM inference engine |
+| [`lsm-rust`](https://github.com/zvdy/lsm-rust) | Rust | LSM tree in Rust |
+| [`zvtop`](https://github.com/zvdy/zvtop) | Go | GPU monitor for the terminal |
+| [`stratum`](https://github.com/zvdy/stratum) | Go | Postgres ERD generator |
+| [`rairdrop`](https://github.com/zvdy/rairdrop) | Rust | AirPlay in Rust |
+| [`parsero-go`](https://github.com/zvdy/parsero-go) | Go | robots.txt scanner |
+
+```console
+~ $ tail -n1 /var/log/daily_joke.log
+```
 
 <!-- JOKE-START -->
 Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
