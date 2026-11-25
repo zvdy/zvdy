@@ -25,5 +25,6 @@ runtimes, GPU monitors.
 </p>
 
 <!-- JOKE-START -->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE-END -->
