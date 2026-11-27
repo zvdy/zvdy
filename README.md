@@ -25,5 +25,8 @@ runtimes, GPU monitors.
 </p>
 
 <!-- JOKE-START -->
-The generation of random numbers is too important to be left to chance.
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE-END -->
